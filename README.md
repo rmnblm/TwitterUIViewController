@@ -5,7 +5,7 @@
 
 A Twitter-inspired UIViewController written entirely in Swift, no Interface Builder needed.
 
-## Showcase
+
 
 ![gif](./resources/out.gif)
 
